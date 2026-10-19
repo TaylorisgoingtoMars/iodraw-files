@@ -20,7 +20,7 @@
           <mxGeometry x="500" y="290" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-13" value="协管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="360" width="100" height="30" as="geometry" />
+          <mxGeometry x="1480" y="339" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-14" value="分管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1620" y="290" width="156" height="49" as="geometry" />
@@ -118,14 +118,6 @@
             <Array as="points">
               <mxPoint x="672" y="340" />
               <mxPoint x="795" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-45" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;dashed=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1540" y="238" />
-              <mxPoint x="1540" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
