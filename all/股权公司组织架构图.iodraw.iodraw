@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-84" value="协管审计" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="189" width="140" height="31" as="geometry" />
+          <mxGeometry x="1480" y="250" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
