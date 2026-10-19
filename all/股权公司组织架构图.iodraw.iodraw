@@ -34,7 +34,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;labelBorderColor=none;shadow=0;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="基金运营部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="基金运营部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-18" value="综合管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
