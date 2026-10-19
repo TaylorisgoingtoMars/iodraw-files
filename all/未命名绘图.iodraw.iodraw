@@ -77,7 +77,7 @@
           <mxGeometry x="1340" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-34" value="内控管理" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="1430" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-35" value="财务风控" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1690" y="490" width="50" height="120" as="geometry" />
