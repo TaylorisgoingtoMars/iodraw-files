@@ -38,10 +38,10 @@
           <mxGeometry x="40" y="506" width="50" height="114" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-21" value="项目直投" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="136" y="506" width="46" height="114" as="geometry" />
+          <mxGeometry x="111" y="506" width="46" height="114" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-22" value="投资并购" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="230" y="510" width="46" height="110" as="geometry" />
+          <mxGeometry x="201" y="510" width="46" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-23" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="53" height="110" as="geometry" />
