@@ -4,34 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1243" y="110" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1013" y="209" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-12" value="副总经理 - 陈昊" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-12" value="副总经理 - 陈昊" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="419" y="308" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-13" value="协管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-13" value="协管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2004" y="180" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-14" value="分管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-14" value="分管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2204" y="220" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-15" value="协管纪检、党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-15" value="协管纪检、党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="981" y="280" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="407" width="270" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="产业发展部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="产业发展部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="906" y="407" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-18" value="综合管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-18" value="综合管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="308" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-19" value="风险管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-19" value="风险管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2045" y="308" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;spacing=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
@@ -67,25 +67,25 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-30" target="c8yw20TTt9u-uqwfAUfo-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-31" value="组织人事" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-31" value="组织人事" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1444" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-32" value="财务管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-32" value="财务管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1618" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-33" value="纪检监察" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-33" value="纪检监察" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1792" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-34" value="内控管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-34" value="内控管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1966" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-35" value="财务风控" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-35" value="财务风控" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2140" y="407" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-36" value="法务风控" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-36" value="法务风控" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2314" y="407" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-37" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-10" target="c8yw20TTt9u-uqwfAUfo-11">
@@ -168,7 +168,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-62" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-19" target="c8yw20TTt9u-uqwfAUfo-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-71" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-71" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1066" y="407" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
