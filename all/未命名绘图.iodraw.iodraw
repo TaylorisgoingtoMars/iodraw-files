@@ -22,7 +22,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-15" value="协管纪检、党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="981" y="280" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="407" width="270" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="产业发展部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
@@ -34,16 +34,16 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-19" value="风险管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2045" y="308" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="55" y="510" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-21" value="项目直投" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-21" value="项目直投" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="145" y="510" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-22" value="投资并购" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-22" value="投资并购" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="235" y="510" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-23" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-23" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="325" y="510" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-24" value="项目招引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
@@ -112,16 +112,16 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-45" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-46" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-20">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-46" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;fontSize=16;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-47" value="" style="startArrow=none;endArrow=block;exitX=0.34;exitY=0.983;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-21">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-47" value="" style="startArrow=none;endArrow=block;exitX=0.34;exitY=0.983;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-48" value="" style="startArrow=none;endArrow=block;exitX=0.662;exitY=1;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-22">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-48" value="" style="startArrow=none;endArrow=block;exitX=0.662;exitY=1;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-49" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.853;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-23">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-49" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.853;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-16" target="c8yw20TTt9u-uqwfAUfo-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="480" as="sourcePoint" />
           </mxGeometry>
