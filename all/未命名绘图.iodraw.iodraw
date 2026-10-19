@@ -61,7 +61,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-28" value="合作管理基金设立" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="490" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=ltr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-rl;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
