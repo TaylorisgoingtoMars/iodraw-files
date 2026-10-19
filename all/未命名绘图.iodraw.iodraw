@@ -62,16 +62,16 @@
           <mxGeometry x="827" y="500" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=ltr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="940" y="515" width="50" height="140" as="geometry" />
+          <mxGeometry x="1013" y="510" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1114" y="515" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-31" value="组织人事" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1288" y="515" width="50" height="140" as="geometry" />
+          <mxGeometry x="1191" y="510" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-32" value="财务管理" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1462" y="515" width="50" height="140" as="geometry" />
+          <mxGeometry x="1260" y="510" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-33" value="纪检监察" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1636" y="515" width="50" height="140" as="geometry" />
