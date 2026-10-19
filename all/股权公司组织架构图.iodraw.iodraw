@@ -64,7 +64,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-rl;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="490" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="综合管理" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1084" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-31" value="组织人事" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
@@ -180,8 +180,8 @@
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-82" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="470" as="sourcePoint" />
-            <mxPoint x="395" y="500" as="targetPoint" />
+            <mxPoint x="304.52" y="460" as="sourcePoint" />
+            <mxPoint x="304.52" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-83" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
