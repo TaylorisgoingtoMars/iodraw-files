@@ -71,19 +71,19 @@
           <mxGeometry x="1149" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-32" value="财务管理" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="1213" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-33" value="纪检监察" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="1277" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-34" value="内控管理" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1430" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-35" value="财务风控" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="1590" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-36" value="法务风控" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;textDirection=vertical-lr;textShadow=0;whiteSpace=wrap;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="1750" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-37" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-10" target="c8yw20TTt9u-uqwfAUfo-11">
           <mxGeometry relative="1" as="geometry" />
