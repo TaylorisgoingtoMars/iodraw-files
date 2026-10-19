@@ -26,7 +26,7 @@
           <mxGeometry x="80" y="407" width="270" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="产业发展部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="420" y="407" width="460" height="49" as="geometry" />
+          <mxGeometry x="470" y="407" width="410" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-18" value="综合管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="407" width="140" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="710" y="510" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-28" value="合作管理基金设立" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="810" y="510" width="50" height="140" as="geometry" />
+          <mxGeometry x="827" y="500" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;textDirection=ltr;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="515" width="50" height="140" as="geometry" />
