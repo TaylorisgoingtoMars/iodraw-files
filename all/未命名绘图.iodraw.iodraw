@@ -19,13 +19,8 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-14" value="分管审计工作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2204" y="220" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-15" value="协管纪检、党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="308" width="204" height="49" as="geometry" />
+          <mxGeometry x="981" y="280" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="407" width="140" height="49" as="geometry" />
@@ -52,19 +47,19 @@
           <mxGeometry x="417" y="538.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-24" value="项目招引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="721" y="506" width="124" height="84" as="geometry" />
+          <mxGeometry x="570" y="582.5" width="124" height="84" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-25" value="品牌宣传" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="506" width="124" height="104" as="geometry" />
+          <mxGeometry x="739" y="582.5" width="124" height="104" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-26" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="506" width="124" height="49" as="geometry" />
+          <mxGeometry x="909" y="582.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-27" value="招标采购" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1229" y="506" width="124" height="114" as="geometry" />
+          <mxGeometry x="1078" y="582.5" width="124" height="114" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-28" value="合作管理基金设立" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1436" y="506" width="48" height="114" as="geometry" />
+          <mxGeometry x="1285" y="582.5" width="48" height="114" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1096" y="407" width="124" height="49" as="geometry" />
