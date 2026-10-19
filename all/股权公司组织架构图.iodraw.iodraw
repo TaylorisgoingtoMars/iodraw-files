@@ -59,10 +59,10 @@
           <mxGeometry x="610" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-25" value="品牌宣传" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textDirection=vertical-lr;fontSize=17;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="684" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="689" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-26" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textDirection=vertical-lr;fontSize=17;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="767" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="769" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-27" value="招标采购" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textDirection=vertical-lr;fontSize=17;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1340" y="490" width="50" height="120" as="geometry" />
@@ -132,15 +132,15 @@
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-75" value="" style="startArrow=none;endArrow=block;exitX=0.066;exitY=1.036;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="708.5" y="462" as="sourcePoint" />
-            <mxPoint x="709.5" y="490" as="targetPoint" />
+            <mxPoint x="713.5" y="462" as="sourcePoint" />
+            <mxPoint x="714.5" y="490" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-76" value="" style="startArrow=none;endArrow=block;exitX=0.066;exitY=1.036;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="791.5" y="462" as="sourcePoint" />
-            <mxPoint x="792.5" y="490" as="targetPoint" />
+            <mxPoint x="793.5" y="462" as="sourcePoint" />
+            <mxPoint x="794.5" y="490" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
