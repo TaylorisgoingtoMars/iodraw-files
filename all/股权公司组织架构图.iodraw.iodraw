@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1243" y="110" width="140" height="49" as="geometry" />
+          <mxGeometry x="928" y="60" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-18">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="1660" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-15" value="协管纪检、党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="900" y="319" width="140" height="31" as="geometry" />
+          <mxGeometry x="791" y="270" width="140" height="31" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-16" value="投资业务部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="370" height="50" as="geometry" />
