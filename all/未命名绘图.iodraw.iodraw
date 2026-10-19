@@ -26,13 +26,13 @@
           <mxGeometry x="200" y="407" width="370" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-17" value="产业发展部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="610" y="407" width="370" height="49" as="geometry" />
+          <mxGeometry x="684" y="407" width="370" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-18" value="综合管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="407" width="370" height="49" as="geometry" />
+          <mxGeometry x="1094" y="407" width="370" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-19" value="风险管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="407" width="370" height="49" as="geometry" />
+          <mxGeometry x="1430" y="407" width="370" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;spacing=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="510" width="50" height="110" as="geometry" />
