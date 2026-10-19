@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1097" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1430" y="410" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;spacing=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;labelBorderColor=none;shadow=0;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="490" width="50" height="120" as="geometry" />
+          <mxGeometry x="843" y="490" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-21" value="项目直投" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;textDirection=vertical-lr;fontSize=17;labelBorderColor=none;shadow=0;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="50" height="120" as="geometry" />
@@ -146,8 +146,8 @@
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-77" value="" style="startArrow=none;endArrow=block;exitX=0.066;exitY=1.036;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="864.5" y="462" as="sourcePoint" />
-            <mxPoint x="865.5" y="490" as="targetPoint" />
+            <mxPoint x="867.5" y="462" as="sourcePoint" />
+            <mxPoint x="868.5" y="490" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -250,8 +250,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.478;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-12" target="c8yw20TTt9u-uqwfAUfo-17">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-12">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="787" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="787" y="340" />
             </Array>
