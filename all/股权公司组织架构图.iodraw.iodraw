@@ -16,7 +16,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-90" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textShadow=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textShadow=0;fontSize=17;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="912" y="171" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-12" value="副总经理 - 陈昊" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
