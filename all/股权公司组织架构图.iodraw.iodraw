@@ -55,9 +55,6 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-23" value="产业研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;textDirection=vertical-lr;fontSize=17;labelBorderColor=none;glass=0;shadow=0;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="490" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-24" target="c8yw20TTt9u-uqwfAUfo-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-24" value="项目招引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textDirection=vertical-lr;fontSize=17;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="490" width="50" height="120" as="geometry" />
         </mxCell>
@@ -254,10 +251,10 @@
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-100" value="" style="startArrow=none;endArrow=block;exitX=0.066;exitY=1.036;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;labelBorderColor=none;shadow=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="674.5" y="502" as="sourcePoint" />
-            <mxPoint x="675.5" y="530" as="targetPoint" />
+            <mxPoint x="1364.5" y="462" as="sourcePoint" />
+            <mxPoint x="1365.5" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="500" />
+              <mxPoint x="1450" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
