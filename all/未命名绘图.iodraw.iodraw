@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="500" as="geometry" />
-        </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1239" y="600" width="140" height="49" as="geometry" />
         </mxCell>
@@ -50,7 +47,7 @@
           <mxGeometry x="562" y="996" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-24" value="项目招引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="736" y="996" width="124" height="49" as="geometry" />
+          <mxGeometry x="736" y="996" width="124" height="84" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-25" value="品牌宣传" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="996" width="124" height="49" as="geometry" />
