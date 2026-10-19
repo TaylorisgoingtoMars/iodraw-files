@@ -10,7 +10,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="928" y="60" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-18">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textShadow=0;fontSize=17;" vertex="1" parent="1">
