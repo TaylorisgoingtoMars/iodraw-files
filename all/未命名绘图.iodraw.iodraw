@@ -32,7 +32,7 @@
           <mxGeometry x="1140" y="407" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-19" value="风险管理部" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="308" width="140" height="49" as="geometry" />
+          <mxGeometry x="1970" y="420" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fontSize=17;spacing=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="510" width="50" height="110" as="geometry" />
@@ -62,10 +62,12 @@
           <mxGeometry x="810" y="510" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-29" value="党建工团" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="571" width="124" height="49" as="geometry" />
+          <mxGeometry x="940" y="456" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-30" target="c8yw20TTt9u-uqwfAUfo-71">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1034" y="595.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-30" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1114" y="571" width="124" height="49" as="geometry" />
@@ -171,9 +173,6 @@
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-62" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-19" target="c8yw20TTt9u-uqwfAUfo-36">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-71" value="行政综合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="571" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
