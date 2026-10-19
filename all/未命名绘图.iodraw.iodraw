@@ -35,7 +35,7 @@
           <mxGeometry x="2045" y="308" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-20" value="基金投资" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="44" y="506" width="50" height="114" as="geometry" />
+          <mxGeometry x="30" y="506" width="50" height="114" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-21" value="项目直投" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="134" y="506" width="46" height="114" as="geometry" />
