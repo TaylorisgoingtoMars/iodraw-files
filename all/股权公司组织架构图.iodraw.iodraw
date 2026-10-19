@@ -7,7 +7,7 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-10" value="董事 - 张引" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1243" y="110" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="c8yw20TTt9u-uqwfAUfo-11" value="总经理 - 游勇进" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;textShadow=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1013" y="209" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-12" value="副总经理 - 陈昊" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="1">
@@ -103,15 +103,18 @@
         <mxCell id="c8yw20TTt9u-uqwfAUfo-42" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" target="c8yw20TTt9u-uqwfAUfo-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="340" />
-              <mxPoint x="470" y="376" />
-              <mxPoint x="385" y="376" />
+              <mxPoint x="385" y="340" />
             </Array>
             <mxPoint x="500" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-43" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;shadow=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-12" target="c8yw20TTt9u-uqwfAUfo-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="672" y="340" />
+              <mxPoint x="795" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="c8yw20TTt9u-uqwfAUfo-44" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;shadow=0;" edge="1" parent="1" source="c8yw20TTt9u-uqwfAUfo-11" target="c8yw20TTt9u-uqwfAUfo-18">
           <mxGeometry relative="1" as="geometry" />
